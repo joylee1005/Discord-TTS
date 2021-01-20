@@ -1,0 +1,42 @@
+{
+  "name": "Discord-TTS",
+  "version": "1.0.0",
+  "description": "Text to speech Discord bot using Vocodes.",
+  "main": "ttsbot.js",
+  "engines": {
+    "node": "12.x",
+    "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ttsbot.js"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord-js",
+    "discord-api",
+    "discordjs",
+    "discordjs-bot",
+    "javascript",
+    "discordjsbot",
+    "discordapp",
+    "discordbot",
+    "nodejs-bot",
+    "nodejs",
+    "node-js",
+    "bot",
+    "tts",
+    "text-to-speech",
+    "vocodes",
+    "wavenet",
+    "tacotron"
+  ],
+  "author": "MysteryPancake",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.4.1",
+    "request": "^2.88.2"
+  }
+}
