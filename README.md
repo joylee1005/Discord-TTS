@@ -133,7 +133,7 @@ Sarah Palin - `tts_palin`
 
 Saruman - `tts_saruman`
 
-Scout - `tts_scout2`
+Scout - `tts_scout`
 
 Severus Snape - `tts_snape`
 
@@ -145,7 +145,7 @@ Solid Snake - `tts_snake`
 
 Sonic - `tts_sonic`
 
-SpongeBob SquarePants - `tts_spongebob2`
+SpongeBob SquarePants - `tts_spongebob`
 
 Squidward - `tts_squidward`
 
