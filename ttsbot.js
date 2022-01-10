@@ -5,7 +5,7 @@ console.log("LOADING LIBRARIES...");
 const request = require("request");
 const crypto = require("crypto");
 const fs = require("fs");
-
+fdaa40ec2fca830deae704c9704d8e0c7a0058644ddb48195941794046d3bbe3
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
